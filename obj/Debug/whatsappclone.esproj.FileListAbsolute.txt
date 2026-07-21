@@ -1,0 +1,2 @@
+C:\Users\Karthik\source\repos\Whatsappclone\obj\Debug\whatsappclone.esproj.CoreCompileInputs.cache
+D:\source\repos\Whatsappclone\obj\Debug\whatsappclone.esproj.CoreCompileInputs.cache
